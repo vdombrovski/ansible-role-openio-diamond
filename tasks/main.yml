@@ -72,4 +72,4 @@
   service:
     name: "{{ diamond_service_name }}"
     enabled: yes
-    state: started
+    state: restarted
